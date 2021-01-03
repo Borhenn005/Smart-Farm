@@ -1,0 +1,4 @@
+12 sdf 00 Temperature 12 Defectueux 1 1 2020
+12 cc qsd Temperature 12 Fonctionnel 1 1 2020
+2555 sqf sqdf Temperature 1 Fonctionnel 29 2 2020
+3355 dc 0000 Humidité 211 Defectueux 1 1 2020
